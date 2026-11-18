@@ -121,6 +121,10 @@ Cek leaderboard bring-the-humans-02 secara berkala. Jumlah signup terverifikasim
 
 Aturan kompetisi ini: kalau dua peserta punya jumlah signup terverifikasi yang sama, yang receipt-nya lebih dulu yang menang. Artinya, signup yang masuk lebih awal lebih berharga saat jumlahnya seri. Jadi jangan menunda: mulailah mengajak sejak awal, bukan di hari terakhir.
 
+### 6. Catat tenggatnya
+
+Entri kompetisi ini ditutup 21 November 2026 pukul 17:30 WIB. Setelah tenggat itu, signup baru tidak lagi dihitung. Tandai tanggal itu di kalendermu dan usahakan semua teman yang kamu ajak sudah terverifikasi sebelum tenggat tiba, supaya tidak ada usaha yang sia-sia di menit terakhir.
+
 ## Tips mengajak teman tanpa terasa spam
 
 Mengajak orang adalah keterampilan sosial, bukan sekadar menempel tautan. Beberapa cara yang terbukti lebih sopan dan lebih efektif:
